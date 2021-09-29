@@ -1,0 +1,24 @@
+.NewQuotes{
+    form{
+        div{
+            margin: 2rem;
+            label{
+                margin-right: 45%;
+                font-size: 3rem;
+            }
+            input , textarea{
+                font-size: 2.5rem;
+                width: 50vw;
+            }
+            button{
+                width: 20%;
+                padding: 2rem 3rem;
+                font-size: 2rem;
+                cursor: pointer;
+                &:hover{
+                    background-color: silver
+                }
+            }
+        }
+    }
+}

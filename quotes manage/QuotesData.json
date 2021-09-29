@@ -1,0 +1,36 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "quote": "ham to fakir aadmi hai",
+      "author": "modi"
+    },
+    {
+      "quote": "kya hai be",
+      "author": "darshan",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Good bhai",
+      "postId": 1
+    },
+    {
+      "body": "wah modiji wah",
+      "postId": 2,
+      "id": 2
+    },
+    {
+      "body": "aap to chaa gaye\n",
+      "postId": 2,
+      "id": 3
+    }
+  ]
+}

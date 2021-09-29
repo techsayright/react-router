@@ -1,0 +1,27 @@
+h3{
+    font-size: 40px;
+}
+
+form{
+    padding: 50px;
+    margin: 0 20%;
+    background-color: rgb(37, 157, 187);
+}
+
+
+input{
+    padding: 10px 15px;
+    font-size: 30px;
+}
+
+h5{
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 1px;
+    display: inline-block;
+}
+
+h5:hover{
+    color: red;
+    
+}

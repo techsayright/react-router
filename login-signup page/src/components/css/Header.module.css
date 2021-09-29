@@ -1,0 +1,12 @@
+.anchor{
+    text-decoration: none ;
+    color: silver;
+}
+
+.anchor:hover{
+    color: white;
+}
+.active{
+    color: #fff;
+
+}

@@ -1,0 +1,14 @@
+.flex{
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: yellow;
+    margin: 1.5rem 15%;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+    h1{
+        font-size: 3rem;
+    }
+}

@@ -1,0 +1,33 @@
+.header{
+    margin: 0 0 1rem 0;
+    font-size: 3rem;
+    background-color:rgba(192, 192, 192, 0.527);
+    position: sticky;
+    top: 0;
+    // left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    z-index: 999;
+
+    .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        div{
+            margin: 1rem 3rem;
+            a{
+                color: gray;
+                text-decoration: none;
+                cursor: pointer;
+                &:hover{
+                    color: black;
+                }
+            }
+            .active{
+                color: black;
+            }
+           
+        }
+    }
+}
